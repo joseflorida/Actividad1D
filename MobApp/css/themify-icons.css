@@ -6,22 +6,6 @@
     font-style: normal;
 }
 }
-content: "\e604";
-}
-
-.ti-trash:before {
-    content: "\e605";
-}
-
-.ti-thought:before {
-    content: "\e606";
-}
-
-.ti-target:before {
-    content: "\e607";
-}
-
-.ti-tag:before {
     content: "\e608";
 }
 
