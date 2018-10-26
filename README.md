@@ -1,3 +1,3 @@
-Jose Alegre
-Alejandro Artes
+Jose Alegre/
+Alejandro Artes/
 Manu cerda
